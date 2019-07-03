@@ -1,5 +1,5 @@
 {
-  "name": "web-server",
+  "name": "custom-express-server",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
